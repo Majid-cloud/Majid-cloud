@@ -15,5 +15,3 @@ Who am I
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Also talks about entrepreneurship and using technology to solve problems.
 
-![Majid Asad's github stats](https://github-readme-stats.vercel.app/api?username=Majid-cloud&show_icons=true&hide_border=true)
-
